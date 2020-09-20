@@ -46,13 +46,13 @@ class MaestroFisica extends Maestro {
   }
   arreglo = [100, 90, 80, 95];
   
-  const Pedro = new MaestroFisica("Pedro", "Fisica", arreglo, 15);
-  console.log(Pedro);
-  console.log("promedio: "+Pedro.getPromedio());
-  console.log(Pedro.antiguedad);
+  const Juan = new MaestroFisica("Juan", "Fisica", arreglo, 15);
+  console.log(Juan);
+  console.log("promedio: "+Juan.getPromedio());
+  console.log(Juan.antiguedad);
   
-  const Mauricio = new MaestroMusica("Mauricio", "Musica", arreglo, 35);
-  console.log(Mauricio);
-  console.log("promedio: "+Mauricio.getPromedio());
-  console.log(Mauricio.edad);
+  const Andres = new MaestroMusica("Andres", "Musica", arreglo, 35);
+  console.log(Andres);
+  console.log("promedio: "+Andres.getPromedio());
+  console.log(Andres.edad);
   
