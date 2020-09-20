@@ -1,6 +1,6 @@
 # Ejercicio-Herencias
 1.- Crea una superclase llamada Electrodoméstico con las siguientes características:
-    a. Sus atributos son precio, color, consumoEnergetico        y capacidad (peso máximo)
+    a. Sus atributos son precio, color, consumoEnergetico y capacidad (peso máximo)
     b. El constructor solo debe pedir precio, color y capacidad. 
     c. consumoEnergetico debe iniciar con valor de 100
 Crea una subclase de Electrodomestico llamada Lavadora con las siguientes características:
